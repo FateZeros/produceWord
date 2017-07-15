@@ -17,6 +17,7 @@ http://localhost:5010/newProject/
 [Freemarker生成Word2](http://ylcodes01.blog.51cto.com/5607366/1842693)</br>
 [Servlet3.0](http://blog.csdn.net/zhongweijian/article/details/8279650)
 [XML格式化](http://tool.oschina.net/codeformat/xml)
+[Freemarker生成word包含图片](https://www.ctolib.com/topics-86012.html)
 
 https://www.zhihu.com/question/22146521
 
