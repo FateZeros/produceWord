@@ -8,7 +8,8 @@ java
 ## 基本流程
 word模版 -> 2003word-xml -> xml -> freemarker生成word文档。
 
-删除：xml中<w:binData w:name="wordml://02000003.jpg" xml:space="preserve"></w:binData>内容
+删除：
+ xml中<w:binData w:name="wordml://02000003.jpg" xml:space="preserve"></w:binData>里面的内容，换成图片转换的base64字段插入。
 
 ## 启动地址
 http://localhost:5010/newProject/
